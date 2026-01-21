@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SIT305 YouTube Player App</string>
+    <string name="play">Play</string>
+    <string name="youtube_url">YouTube URL</string>
+    <string name="enter_youtube_url">Enter YouTube URL:</string>
+
+
+</resources>
